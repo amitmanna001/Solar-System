@@ -2,7 +2,7 @@
 
 
 #include "SaturnOrbit.h"
-const int32 NumSegments = 360;
+
 
 // Sets default values
 ASaturnOrbit::ASaturnOrbit()

@@ -2,7 +2,7 @@
 
 
 #include "JupiterOrbit.h"
-const int32 NumSegments = 360;
+
 // Sets default values
 AJupiterOrbit::AJupiterOrbit()
 {

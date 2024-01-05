@@ -11,6 +11,8 @@ UCLASS()
 class SOLARSYSTEMPROJECT_API AMarsOrbit : public AActor
 {
 	GENERATED_BODY()
+
+	const int32 NumSegments = 360;
 	
 public:	
 	// Sets default values for this actor's properties

@@ -2,7 +2,7 @@
 
 
 #include "NeptuneOrbit.h"
-const int32 NumSegments = 360;
+
 // Sets default values
 ANeptuneOrbit::ANeptuneOrbit()
 {

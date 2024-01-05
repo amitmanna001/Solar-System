@@ -2,7 +2,7 @@
 
 
 #include "UranusOrbit.h"
-const int32 NumSegments = 360;
+
 // Sets default values
 AUranusOrbit::AUranusOrbit()
 {

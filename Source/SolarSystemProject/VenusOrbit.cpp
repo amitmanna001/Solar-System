@@ -2,7 +2,7 @@
 
 
 #include "VenusOrbit.h"
-const int32 NumSegments = 360;
+
 AVenusOrbit::AVenusOrbit()
 {
 	ProceduralMeshComponent = CreateDefaultSubobject<UProceduralMeshComponent>(TEXT("ProceduralMeshComponent"));

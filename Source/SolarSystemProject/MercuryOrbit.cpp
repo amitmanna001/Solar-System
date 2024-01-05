@@ -2,7 +2,7 @@
 
 
 #include "MercuryOrbit.h"
-const int32 NumSegments = 360;
+
 AMercuryOrbit::AMercuryOrbit()
 {
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
